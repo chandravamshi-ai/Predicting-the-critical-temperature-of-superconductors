@@ -70,7 +70,7 @@ The actual critical Temperature for Sr0.1La1.9Cu1O4 is 33
 
 random forest | neural network
 ------------ | -------------
-53| 30
+48| 30
 
 For some materails random forest prediction is not so good but this is not the case for other materials, whereas neural network made good prediction close to actual values.
 
