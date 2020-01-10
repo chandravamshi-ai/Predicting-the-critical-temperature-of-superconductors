@@ -75,7 +75,7 @@ random forest | neural network
 For some materails random forest prediction is not so good but this is not the case for other materials, whereas neural network made good prediction close to actual values.
 
 #### Neural network plots for loss and mse
-![Plot for neural network](https://github.com/chandravamshi/Predicting-the-critical-temperature-of-superconductors/blob/master/plots/nn-final-.png)
+![Plot for neural network](https://github.com/chandravamshi/Predicting-the-critical-temperature-of-superconductors/blob/master/plots/plot9.png)
 
 #### random forest plots for out-of-bag and validation error
 ![Plot for rf_oob_valid](https://github.com/chandravamshi/Predicting-the-critical-temperature-of-superconductors/blob/master/plots/rf_oob_valid_error.png)
